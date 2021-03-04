@@ -1,0 +1,11 @@
+<svg id="television" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.636" height="44.004" viewBox="0 0 56.636 44.004">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9d7a54"/>
+      <stop offset="1" stop-color="#e7c68e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_31" data-name="Group 31">
+    <path id="Path_129" data-name="Path 129" d="M56.636,98.234V61H0V98.234H15.6v3.385H11.172V105H45.464v-3.385H41.039V98.234Zm-18.916,3.385h-18.8V98.234h18.8Zm-34.4-6.77V64.385h50V94.849Z" transform="translate(0 -61)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

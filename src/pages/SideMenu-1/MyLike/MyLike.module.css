@@ -1,0 +1,95 @@
+.Pmain{
+    margin-top: 1rem;
+   
+    border-bottom: 1px solid #E7C68E !important;
+  }
+  .select2{
+    padding: 0 20px;
+    border: 1px solid #E7C68E;
+    margin-top: 1rem !important;
+    margin-left: 2rem !important;
+  }
+  .text{
+    margin-bottom: 1rem !important;
+    font-size: larger;
+    font-weight: 500;
+  }
+ 
+  .text1{
+    margin-bottom: .5rem;
+    font-size: 16px;
+    color: #E7C68E;
+    font-size: inherit;
+    font-weight: 500;
+    text-decoration: none; 
+  }
+  .draft{
+    display: flex;
+    
+  }
+  /* like css */
+  .Bidding{
+    width: auto;
+    border: 1px solid  #E7C68E;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem !important;
+  }
+    .draftprice{
+      margin-bottom: 0rem;
+      font-size: large;
+      text-align: left;
+      font-weight: 400;
+    }
+  .img{
+    width: 100%;
+    height: auto;
+  
+  }
+  .heart{
+    margin-top: 2rem;
+    margin-left: 8rem;
+    height:1.5rem;
+   
+}
+.heart:hover{
+    cursor: pointer;
+}
+ @media only screen and (max-width: 800px) {
+ .heart {
+  margin-top: 2rem;
+  margin-left: 4rem;
+}}
+@media only screen and (max-width: 1200px) {
+  .heart {
+   margin-top: 2rem;
+   margin-left: 4rem;
+ }}
+  /*  */
+  @media only screen and (max-width: 670px) {
+ 
+  .select2{
+   
+    margin-left: 0rem !important;
+  }
+ 
+    .text{
+      font-size: 16px;
+      font-weight: 500;
+    }
+   
+  
+  }
+
+  @media only screen and (min-width: 900px) {
+    .select2{
+   
+      margin-left: 0rem !important;
+    }
+  }
+  @media only screen and (min-width: 960px) {
+    .select2{
+   
+      margin-left: 2rem !important;
+    }
+  }

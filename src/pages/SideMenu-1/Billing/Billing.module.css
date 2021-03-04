@@ -1,0 +1,124 @@
+.select2{
+    padding: 0 20px;
+    border: 1px solid #E7C68E;
+    margin-top: 1rem !important;
+    margin-left: 2rem !important;
+  }
+.own{
+    padding-left: 0px !important; 
+    padding-right: 0px !important;
+}
+.inputfield{
+    border: 2px solid #E7C68E;
+    padding: 14px;
+    border-radius: 8px;
+    width: 88%;
+    background: #E7C68E;
+    margin-bottom: 20px;
+    color: #9D7A54;
+    font-size: 16px;
+}
+
+.bill{
+    margin-bottom: -0.5rem;
+    font-size: larger;
+    font-weight: 600;
+
+}
+.text{
+    font-size: small;
+    width: 100%;
+    font-weight: 400; 
+}
+
+.createtext1{
+font-weight: 700;
+}
+
+.createlisting{
+    display: flex;
+    background: linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 3rem;
+    width: 100%;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+}
+.createlisting1{
+    display: flex;
+    background: linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black;
+    margin-top: 1.4rem;
+    margin-bottom: 1rem;
+    height: 3rem;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.createlisting1:hover{
+  color: white;
+}
+.createlisting1:hover{
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .inputfield{
+        padding: 8px;
+        border-radius: 8px;
+        width: 75%;
+        font-size: 16px;
+    }
+
+
+}
+@media only screen and (max-width: 800px) {
+
+    .inputfield{
+        padding: 8px;
+        border-radius: 8px;
+        width: 75%;
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+  .inputfield{  
+    margin-left: 0px;
+    padding: 10px;
+  
+}
+    .text{
+        font-size: 12px;
+        width: 100%;
+        font-weight: 600; 
+    }
+    /* .form{
+        margin-top: 25px;
+       
+        padding: 0px 0px;
+    } */
+    .createlisting{
+       
+        margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+
+}
+@media only screen and (min-width: 900px) {
+    .select2{
+   
+      margin-left: 0rem !important;
+    }
+  }
+  @media only screen and (min-width: 960px) {
+    .select2{
+   
+      margin-left: 2rem !important;
+    }
+  }

@@ -1,0 +1,102 @@
+.Bidding {
+  width: auto;
+  border: 1px solid #E7C68E;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem !important;
+}
+
+.border {
+  border-bottom: 1px solid #E7C68E;
+}
+
+.profile {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-top: 1rem;
+}
+
+.price {
+  margin-bottom: 0.2rem;
+  font-size: 18px;
+  text-align: left;
+  font-weight: 400;
+}
+
+.draftprice {
+  margin-top: 1rem;
+  font-size: 14px;
+  text-align: left;
+  font-weight: 400;
+}
+
+.share {
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+
+.share:hover {
+  cursor: pointer;
+}
+
+.locate {
+  margin-left: .3rem;
+}
+
+.follow {
+  margin-top: 1rem !important;
+}
+
+.locate1 {
+  margin-left: .1rem;
+  vertical-align: super;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
+.heart {
+  margin-top: 2rem;
+  margin-left: 8rem;
+  height: 1.5rem;
+}
+
+.heart:hover {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+  .share {
+    margin-left: 1rem !important;
+  }
+  .heart {
+    margin-top: 2rem;
+    margin-left: 4rem;
+  }
+  .profile {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 1rem;
+  }
+  .price {
+    font-size: 12px;
+  }
+  .draftprice {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .heart {
+    margin-top: 2rem;
+    margin-left: 4rem;
+  }
+  .share {
+    margin-top: 2rem;
+    margin-left: 2rem;
+  }
+}

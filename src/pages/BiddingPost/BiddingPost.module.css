@@ -1,0 +1,119 @@
+.topdiv {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem 0;
+}
+
+.oneistofour {
+  background-color: #e7c68e;
+  color: black;
+  padding: 0.2rem 0.8rem;
+  display: inline;
+}
+.heading {
+  padding: 10px 30px;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+  font-size: 18px;
+  color: black;
+}
+
+.grid {
+  justify-content: center;
+}
+
+.middiv {
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+  padding: 1rem 0;
+  justify-content: center;
+  margin: 1rem 0;
+  align-items: center;
+  display: grid;
+}
+
+.createListing {
+  color: #e7c68e;
+  margin-bottom: 5rem !important;
+}
+
+.Input {
+  width: 90%;
+  padding: 0.4rem;
+  background-color: transparent;
+  border: 1px solid #e7c68e;
+  border-radius: 3px;
+  color: #e7c68e;
+}
+
+.textarea {
+  width: 100%;
+  background-color: transparent;
+  border: 1px solid #e7c68e;
+  color: #e7c68e;
+  height: 7rem;
+}
+
+.select {
+  border: 1px solid;
+  width: 19rem;
+  margin: auto;
+}
+
+.endText {
+  text-decoration: underline;
+}
+
+.continuebutton {
+  float: right;
+  margin-top: 2em;
+  font-size: 16px;
+  padding: 0.7rem 2.7rem;
+  color: black;
+  font-weight: bold;
+  background-color: #9d7a54;
+  border: transparent;
+}
+
+.continuebutton:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.btn {
+  width: 46px;
+  padding: 8px 0px;
+  margin: 0px 0.8em;
+  border: 1px solid #e7c68e;
+  outline: none;
+  border-radius: 2px;
+  background: transparent;
+  color: #9d7a54;
+  cursor: pointer;
+}
+
+.chit {
+  font-size: 16px;
+  padding: 5px 0px;
+}
+
+.featured {
+  margin-top: 2rem !important;
+  margin-right: 2rem !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .select {
+    border: 1px solid;
+    width: 17rem;
+    margin: auto;
+  }
+
+  .Input {
+    width: 97%;
+  }
+  .grid {
+    margin: 1em 0em 0em !important;
+  }
+}

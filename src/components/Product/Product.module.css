@@ -1,0 +1,160 @@
+.main {
+  margin-top: 1rem !important;
+}
+.pmain {
+  border-bottom: 1px solid #e7c68e;
+  margin-top: 1rem !important;
+  padding-bottom: 1em !important;
+}
+
+.header {
+  display: flex;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+  color: black;
+  height: 3rem;
+  font-weight: 700;
+  font-size: 20px;
+  width: 100%;
+  float: right;
+  justify-content: center;
+  align-items: center;
+}
+.border {
+  border-bottom: 1px solid #e7c68e;
+  margin-top: 1rem !important;
+  text-align: right;
+  font-size: 18px;
+  margin-right: 1rem;
+  font-weight: 600;
+}
+.border1 {
+  border-bottom: 1px solid #e7c68e;
+  margin-top: 1rem !important;
+  font-size: 18px;
+  text-align: right;
+  font-weight: 400;
+  color: #9d7a54;
+}
+.ampount {
+  margin-right: 1rem;
+}
+.img {
+  width: 90%;
+}
+.text {
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 3.4rem !important;
+}
+.pay {
+  color: #e7c68e;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 1rem !important;
+}
+.paytext {
+  color: #9d7a54;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 1rem !important;
+}
+
+.Pmain {
+  margin-top: 1rem;
+  border-bottom: 1px solid #e7c68e !important;
+}
+
+.select2 {
+  padding: 0 1em;
+  /* border: 1px solid #E7C68E; */
+}
+
+.draft {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  margin-top: 1em !important;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e7c68e !important;
+}
+
+.date {
+  text-align: right;
+}
+
+.imgContainer {
+  margin-right: 12px;
+}
+
+.order {
+  width: 126px;
+}
+
+.price {
+  margin-top: 4.1em;
+}
+
+@media only screen and (max-width: 360px) {
+  .card {
+    font-size: 12px;
+  }
+  .order {
+    width: 86px;
+  }
+  .price {
+    margin-top: 3.1em;
+  }
+  .text {
+    margin-bottom: 0.4rem !important;
+    font-size: 14px !important;
+  }
+  .date {
+    text-align: left;
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  .draft {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+  }
+  .select2 {
+    margin-left: 0rem !important;
+  }
+  .text {
+    font-size: 16px;
+    font-weight: 500;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .select2 {
+    margin-left: 0rem !important;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .select2 {
+    margin-left: 0rem !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .border1 {
+    font-size: 12px;
+  }
+  .border {
+    font-size: 12px;
+  }
+  .pay {
+    font-size: 12px;
+  }
+  .paytext {
+    font-size: 12px;
+  }
+}

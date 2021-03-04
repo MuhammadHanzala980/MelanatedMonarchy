@@ -1,0 +1,222 @@
+.createlisting1 {
+  display: flex;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+  color: black;
+  margin-top: 2rem !important;
+  margin-left: 1rem !important;
+  height: 3rem;
+  float: right;
+  width: 100%;
+  border-radius: 2px;
+  justify-content: center;
+  align-items: center;
+}
+.createlisting1:hover {
+  color: white;
+}
+.createlisting1:hover {
+  cursor: pointer;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid;
+  padding-bottom: 1rem;
+  margin-top: -1rem;
+}
+.grid {
+  display: grid;
+  align-items: center;
+  border: 1px solid;
+  margin-top: 2rem !important;
+  margin-left: 1rem !important;
+}
+.link {
+  display: grid;
+  align-items: center;
+  color: #e7c68e;
+  margin-top: 2rem !important;
+  margin-left: 1rem !important;
+}
+.text:hover {
+  color: white;
+}
+.text {
+  color: #e7c68e;
+  text-decoration: none !important;
+  font-weight: 500;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+.title {
+  font-weight: 700;
+
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.grid1 {
+  display: grid;
+  align-items: center;
+  border: 1px solid;
+  margin-top: 1rem !important;
+  margin-left: 1rem !important;
+}
+.Seller {
+  display: flex;
+  flex-direction: row;
+  font-weight: 400;
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+.Seller:before,
+.Seller:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid #e7c68e;
+  margin: auto;
+}
+.Seller:before {
+  margin-right: 30px;
+}
+.Seller:after {
+  margin-left: 30px;
+}
+
+.main {
+  border-bottom: 1px solid;
+}
+.createlisting {
+  display: flex;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+  color: black;
+  margin-top: 1.6rem;
+  height: 3rem;
+  width: 90%;
+  float: right;
+  justify-content: center;
+  align-items: center;
+}
+.createlisting:hover {
+  color: white;
+}
+.createlisting:hover {
+  cursor: pointer;
+}
+.image {
+  height: 100%;
+}
+.plus {
+  margin-left: 0.5rem;
+}
+.signup {
+  padding: 1rem 0;
+  text-align: center;
+}
+.loginsignup:hover {
+  color: white;
+}
+.loginsignup {
+  cursor: pointer;
+  margin: 0px 20px;
+}
+
+.goforbidding {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.maningrid {
+  border-bottom: 1px solid;
+  padding-bottom: 1rem;
+  margin-top: -1rem;
+}
+.gridbutton:hover {
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+  color: black;
+  cursor: pointer;
+}
+.gridbutton {
+  border: 1px solid;
+  color: #e7c68e;
+  text-decoration: none;
+  margin-top: 2rem !important;
+  font-weight: bold;
+}
+
+.grid {
+  display: grid;
+  align-items: center;
+  border: 1px solid;
+  margin-top: 2rem !important;
+  margin-left: 1rem !important;
+}
+.link {
+  color: #e7c68e;
+  text-decoration: none;
+}
+.link:hover {
+  color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  .createtext {
+    font-size: 14px;
+  }
+  .maningrid {
+    justify-content: center;
+  }
+  .grid {
+    margin-left: 0 !important;
+  }
+  .signup {
+    font-size: 14px;
+  }
+  .createlisting {
+    padding: 0 0.2rem;
+    height: 2.5rem;
+  }
+  .image {
+    height: 4rem;
+    padding-top: 0.5rem;
+  }
+  .plus {
+    height: 0.7rem;
+  }
+  .goforbidding {
+    margin: 1rem;
+  }
+}
+@media only screen and (max-width: 349px) {
+  .createtext {
+    font-size: 10.5px;
+  }
+  .signup {
+    font-size: 10.5px;
+  }
+  .image {
+    height: 3.3rem;
+    padding-top: 0.4rem;
+  }
+  .plus {
+    height: 0.5rem;
+  }
+  .createlisting {
+    height: 1.5rem;
+  }
+}
+@media only screen and (max-width: 319px) {
+  .plus {
+    margin-left: 0.1rem;
+  }
+  .createlisting {
+    padding: 0;
+  }
+}

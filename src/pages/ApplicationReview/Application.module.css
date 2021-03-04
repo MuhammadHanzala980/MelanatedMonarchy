@@ -1,0 +1,64 @@
+.Application {
+    background: #000000;
+    border-radius: 10px;
+    border: 2px solid #E7C68E;
+    margin-top: 2rem !important;
+}
+
+.main {
+    display: flex;
+    text-align: center;
+    border-bottom: 1px solid #E7C68E;
+}
+
+.content {
+    display: flex;
+    text-align: center;
+}
+
+.text {
+    font-size: 19px;
+    font-weight: 500;
+    padding: 5px;
+    vertical-align: text-bottom;
+}
+
+.check {
+    width: 28px;
+}
+
+.textdet {
+    color: #E7C68E;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.head {
+    color: #E7C68E;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.div {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.img {
+    margin-top: 2rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.detail {
+    margin-bottom: 2rem !important;
+}
+
+@media only screen and (max-width: 800px) {
+    .text {
+        font-size: 11px;
+        font-weight: 500;
+    }
+    .textdet {
+        font-size: 11px;
+    }
+}

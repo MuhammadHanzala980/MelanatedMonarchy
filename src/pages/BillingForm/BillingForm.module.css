@@ -1,0 +1,122 @@
+.Pmain {
+    margin-top: 1rem;
+}
+
+.select2 {
+    padding: 0 20px;
+    border: 1px solid #E7C68E;
+    margin-top: 1rem !important;
+}
+
+.text {
+    margin-bottom: 1rem !important;
+    font-size: 20px !important;
+    font-weight: 500;
+}
+
+.draft {
+    margin-bottom: 3em !important;
+    justify-content: space-between;
+}
+
+.inpBox {
+    margin-bottom: .4em !important;
+    max-width: 47.666667% !important;
+    flex-basis: 47.666667% !important;
+}
+
+.address {
+    max-width: 75.666667% !important;
+    flex-basis: 75.666667% !important;
+}
+
+.zip {
+    max-width: 20.666667% !important;
+    flex-basis: 20.666667% !important;
+}
+
+.btnBox {
+    text-align: right;
+    max-width: 47.666667% !important;
+    flex-basis: 47.666667% !important;
+}
+
+.secHeading {
+    text-align: center;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 100%);
+    color: #000000d5;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 6px;
+    margin: 1em 0px !important;
+}
+
+.label {
+    font-size: 12px;
+    padding: 5px 0px;
+}
+
+.inpFeild {
+    padding: 7px 0px;
+    width: 98%;
+    font-size: 16px;
+    border: 2px solid #e7c68e;
+    color: #e7c68e;
+    outline: none;
+    border-radius: 3px;
+    background: transparent;
+}
+
+.btn {
+    margin-top: 1.6em}
+
+.save {
+    border: none;
+    outline: none;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 40px;
+    margin: 0px !important;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 100%);
+}
+
+@media only screen and (min-width: 900px) {
+    .select2 {
+        margin-left: 0rem !important;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .select2 {
+        margin-left: 0rem !important;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .select2 {
+        margin-left: 0rem !important;
+    }
+    .text {
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .inpBox {
+        max-width: 100% !important;
+        flex-basis: 100% !important;
+    }
+    .btnBox {
+        max-width: 100% !important;
+        flex-basis: 100% !important;
+    }
+    .address {
+        max-width: 65% !important;
+        flex-basis: 65% !important;
+    }
+    .zip {
+        max-width: 30.666667% !important;
+        flex-basis: 30.666667% !important;
+    }
+}

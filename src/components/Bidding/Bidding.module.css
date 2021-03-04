@@ -1,0 +1,54 @@
+.Bidding {
+  width: auto;
+  border: 1px solid;
+  text-align: center;
+  padding: 1rem;
+}
+.Bidbox {
+  background-color: #ad8955;
+  border-radius: 2%;
+  color: black;
+  margin-top: -1.5rem;
+  background-color: rgb(172, 172, 172);
+}
+.bidamount {
+  padding-top: 0.5rem;
+}
+.freeshipping {
+  margin-top: -1rem;
+  padding-bottom: 0.5rem;
+}
+.offwinner {
+  border: 1px solid;
+  /* height: 90%; */
+}
+
+.offprice {
+  border-right: 1px solid #707070;
+  color: #9b9b9b;
+}
+.img {
+  width: 100%;
+}
+
+.topdec {
+  margin-top: -1.5rem;
+}
+.heart {
+  /* margin-left: 15.3rem;
+    margin-bottom: -3rem; */
+  height: 1.5rem;
+  position: absolute;
+  padding-left: 12.9rem;
+  padding-top: 1rem;
+}
+.heart:hover {
+  cursor: pointer;
+}
+.nobids {
+  margin-top: -1rem;
+}
+.star {
+  display: flex;
+  justify-content: center;
+}

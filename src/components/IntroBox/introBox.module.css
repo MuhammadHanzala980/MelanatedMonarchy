@@ -1,0 +1,65 @@
+.box {
+  /* border: 1px solid; */
+  margin-top: 0.8rem;
+  text-align: center;
+  padding: 1rem 0;
+  position: relative;
+}
+.image {
+  position: relative;
+  border: 50%;
+}
+.membersince {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-top: -1rem;
+}
+.follow {
+  padding: 0.7rem 3rem;
+  font-size: 1.2rem;
+  font-weight: 500 !important;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+}
+.follow:hover {
+  cursor: pointer;
+  color: white;
+}
+.icon {
+  padding: 1.3rem 1.3rem 0rem;
+}
+
+.editBtn {
+  right: 45px;
+  bottom: 3px;
+  padding: 2px 4.5px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 3px 2px;
+  position: inherit;
+  background-color: black;
+  display: inline-block;
+}
+
+.imgBox {
+  position: relative;
+}
+
+.save {
+  padding: 0.7rem 2rem;
+  outline: none;
+  border: none;
+  margin: 5px 5px 5px 0px;
+  font-size: 1.2rem;
+  font-weight: 500 !important;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+}
+
+.cancle {
+  padding: 0.7rem 2rem;
+  outline: none;
+  border: 1px solid;
+  margin: 5px;
+  font-size: 1.2rem;
+  color: #e7c68e;
+  font-weight: 500 !important;
+  background: black;
+}

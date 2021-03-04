@@ -1,0 +1,13 @@
+<svg id="facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.755" x2="-0.824" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e7c68e"/>
+      <stop offset="1" stop-color="#9d7a54"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_114" data-name="Path 114" d="M215.727,103.218V91.423H219.7l.6-4.617h-4.572v-2.94c0-1.334.37-2.242,2.283-2.242h2.424V77.506a32.58,32.58,0,0,0-3.552-.182c-3.515,0-5.92,2.145-5.92,6.085v3.4H207v4.617h3.961v11.795Zm0,0" transform="translate(-190.669 -67.718)" fill="url(#linear-gradient)"/>
+  <g id="Ellipse_2" data-name="Ellipse 2" fill="none" stroke="#ad8955" stroke-width="2">
+    <circle cx="23" cy="23" r="23" stroke="none"/>
+    <circle cx="23" cy="23" r="22" fill="none"/>
+  </g>
+</svg>

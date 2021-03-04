@@ -1,0 +1,54 @@
+/* Main */
+.Pmain{
+  margin-top: 1rem;
+  border-bottom: 1px solid #E7C68E !important;
+}
+.text{
+  margin-bottom: 1rem !important;
+  color:  #E7C68E;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.draft{
+  display: flex;
+  
+}
+/*  */
+.Bidding{
+    width: auto;
+    border: 2px solid  #E7C68E;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem !important;
+  }
+
+
+.price{
+    margin-bottom: 0.2rem;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+  }
+    
+  .img{
+    width: 100%;
+    height: auto;
+  
+  }
+
+ @media only screen and (max-width: 800px) {
+ 
+  .profile{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 1rem;
+}
+.price{
+    
+    font-size: 12px;
+    
+  }
+
+}

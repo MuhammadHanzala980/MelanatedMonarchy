@@ -1,0 +1,22 @@
+.text {
+  font-size: 22px;
+}
+
+.listItem {
+  font-size: 22px;
+  padding: 10px 0px;
+}
+
+.list {
+  margin-left: 2em;
+}
+
+.border {
+  border: 1px solid;
+  margin: 0px;
+  padding: 10px;
+}
+
+.table {
+  border-collapse: collapse;
+}

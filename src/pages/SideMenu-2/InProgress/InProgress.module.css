@@ -1,0 +1,100 @@
+.Omain{
+    margin-top: 1rem;
+    border-bottom: 2px solid #E7C68E !important;
+  }
+.text{
+    margin-bottom: 1rem !important;
+    font-size: larger;
+    font-weight: 500;
+  }
+  .crumb{
+    margin-bottom: 1rem !important;
+  }
+  .links{
+    text-align: left;
+    color: #E7C68E;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 1rem;
+  }
+  .tag{
+      font-weight: 600;
+      margin-left: .5rem;
+      margin-right: .5rem;
+  }
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    
+}
+.create{
+    display: flex;
+    color: #9D7A54;
+    border-radius: 2px;
+    /* margin-top: .6rem;
+    margin-bottom: 1rem; */
+    width: 100%;
+    font-weight: 600;
+    font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.createlisting{
+    display: flex;
+    background:linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black;
+    border-radius: 2px;
+    /* margin-top: .6rem;
+    margin-bottom: 1rem; */
+    height: 3rem;
+    width: 90%;
+    
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+.createlisting:hover{
+  color: white;
+}
+.createlisting:hover{
+    cursor: pointer;
+}
+.createtext1{
+    color: black;
+    font-weight: 700;
+}
+@media only screen and (max-width: 670px) {
+    .main{
+        margin-bottom: 1rem !important;
+    }
+    }
+@media only screen and (max-width: 800px) {
+   .img{
+       height: auto;
+    
+   }
+    .createbtn{
+        height: 2rem;
+       font-size: 14px;
+      }
+       .createlisting{
+           height: 2rem;
+       margin-top: 0rem;
+       margin-bottom: 1rem;
+       font-size: 12px;
+       }
+      
+    
+    .createprice{
+       
+        margin-right: 1px;
+        margin-left: 1px;
+       
+    }
+}

@@ -1,0 +1,51 @@
+.jobaim {
+    font-weight: bold;
+}
+
+.picturebox {
+    border: 1px solid;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.heading {
+    margin-top: 0.3rem;
+}
+
+.rightendbuttons {
+    display: grid;
+    width: 100%;
+}
+
+.twobuttons:hover {
+    cursor: pointer;
+    color: white;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 55%);
+}
+
+.twobuttons {
+    background-color: transparent;
+    border: 1px solid #E7C68E;
+    color: #E7C68E;
+    font-size: 1.2rem;
+    padding: 1rem 0;
+    margin-top: 1rem;
+}
+
+.lastbutton {
+    background-color: #E7C68E;
+    color: black;
+    padding: 1rem 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+
+.lastbutton:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.Img {
+    padding-right: 0.5rem;
+}

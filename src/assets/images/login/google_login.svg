@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="50" viewBox="0 0 90 50">
+  <g id="Group_513" data-name="Group 513" transform="translate(-125 -2299)">
+    <g id="Rectangle_143" data-name="Rectangle 143" transform="translate(125 2299)" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="1">
+      <rect width="90" height="50" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="89" height="49" rx="1.5" fill="none"/>
+    </g>
+    <g id="google-plus" transform="translate(148 2214)">
+      <g id="Group_515" data-name="Group 515" transform="translate(30.667 101.547)">
+        <g id="Group_514" data-name="Group 514">
+          <path id="Path_527" data-name="Path 527" d="M360.48,165.653V160h-2.827v5.653H352v2.827h5.653v5.653h2.827V168.48h5.653v-2.827Z" transform="translate(-352 -160)"/>
+        </g>
+      </g>
+      <g id="Group_517" data-name="Group 517" transform="translate(0 96)">
+        <g id="Group_516" data-name="Group 516" transform="translate(0 0)">
+          <path id="Path_528" data-name="Path 528" d="M14.133,107.2v5.6h8a8.465,8.465,0,1,1-8-11.2,8.4,8.4,0,0,1,5.492,2.027L23.339,99.4A13.955,13.955,0,1,0,28.265,110v-2.8Z" transform="translate(0 -96)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

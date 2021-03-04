@@ -1,0 +1,10 @@
+<svg id="house" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.152" height="51" viewBox="0 0 59.152 51">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9d7a54"/>
+      <stop offset="1" stop-color="#e7c68e"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_134" data-name="Path 134" d="M76.039,137.1a1.748,1.748,0,0,0-1.742,1.756V156.9H64.691V138.858A1.748,1.748,0,0,0,62.95,137.1H49.858a1.748,1.748,0,0,0-1.742,1.756V156.9H38.509V138.858a1.742,1.742,0,1,0-3.483,0v19.794a1.748,1.748,0,0,0,1.742,1.756H76.039a1.748,1.748,0,0,0,1.742-1.756V138.858A1.749,1.749,0,0,0,76.039,137.1ZM51.6,156.9V140.613h9.608V156.9H51.6Z" transform="translate(-26.827 -109.407)" fill="url(#linear-gradient)"/>
+  <path id="Path_135" data-name="Path 135" d="M58.641,46.021,30.809,18.03a1.739,1.739,0,0,0-2.468,0L.511,46.021a1.763,1.763,0,0,0,0,2.483,1.738,1.738,0,0,0,2.468,0l26.6-26.75,26.6,26.75a1.738,1.738,0,0,0,2.468,0A1.763,1.763,0,0,0,58.641,46.021Z" transform="translate(0 -17.516)" fill="url(#linear-gradient)"/>
+</svg>

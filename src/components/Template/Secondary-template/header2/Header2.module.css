@@ -1,0 +1,39 @@
+.main1{
+    border-bottom: 1px solid;
+    
+}
+.text{
+    color: #E7C68E !important;
+    font-family: 'Segoe UI' !important;
+}
+.margin{
+  
+    margin-top: 2rem !important;
+    margin-left: 9rem !important;
+   
+}
+.margin1{
+  
+    margin-top: 2rem !important;
+    margin-left: 0rem !important;
+   
+}
+
+.image{
+    width: 127px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .margin{
+  
+        margin-left: 2rem !important;
+       
+    }
+}
+@media only screen and (max-width: 400px) {
+    .margin{
+        margin-left: 0rem !important;
+       
+    }
+}

@@ -1,0 +1,44 @@
+.maindiv {
+    border: 1px solid;
+}
+
+.header {
+    background-color: #E7C68E;
+    color: black;
+    margin-top: -1.5rem;
+    text-align: center;
+}
+
+.header p {
+    font-size: 1.5rem;
+    padding: 0.7rem 0;
+    font-weight: 600;
+}
+
+.centerdiv {
+    padding: 0 1rem;
+}
+
+.centerdiv h5 {
+    font-weight: 500;
+}
+
+.centerdiv h4 {
+    font-weight: 500;
+    margin-top: -1rem;
+}
+
+.continuebutton {
+    float: right;
+    padding: 0.7rem 2.7rem;
+    color: black;
+    font-weight: bold;
+    background-color: #9D7A54;
+    border: transparent;
+    margin: 1rem 0;
+}
+
+.continuebutton:hover {
+    cursor: pointer;
+    color: white;
+}

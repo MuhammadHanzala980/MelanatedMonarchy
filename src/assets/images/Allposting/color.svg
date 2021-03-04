@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 13" width="18" height="18">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-351 -141L289 -141L289 354L-351 354Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #c31d13 } 
+	</style>
+	<g id="Myorder_complete" clip-path="url(#cp1)">
+		<g id="Group 442">
+			<g id="Group 443">
+				<path id="Ellipse 38" class="shp0" d="M7 13C3.41 13 0.5 10.09 0.5 6.5C0.5 2.91 3.41 0 7 0C10.59 0 13.5 2.91 13.5 6.5C13.5 10.09 10.59 13 7 13Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,133 @@
+.main{
+    border-bottom: 1px solid;
+}
+.createlisting{
+    display: flex;
+    background: linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black;
+    margin-top: 1.6rem;
+    height: 3rem;
+    width: 90%;
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+.createlisting:hover{
+  color: white;
+}
+.createlisting:hover{
+    cursor: pointer;
+}
+.image{
+    /* height: 100%; */
+    width: 127px;
+}
+.plus{
+    margin-left: 0.5rem;
+}
+.signup{
+    padding: 1rem 0;
+    text-align: center;
+}
+.loginsignup:hover{
+    color: white;
+  }
+.loginsignup{
+    cursor: pointer;
+    margin: 0px 20px;
+}
+
+.goforbidding{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.maningrid{
+    border-bottom: 1px solid;
+    padding-bottom: 2rem;
+    margin-top: -1rem;
+}
+.gridbutton:hover{
+    background: linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black;
+    cursor: pointer;
+}
+.gridbutton{
+    border: 1px solid;
+    color: #E7C68E;
+    text-decoration: none;
+    margin-top: 2rem !important;
+    font-weight: bold;
+}
+
+.grid{
+    display: grid;
+    align-items: center;
+    border: 1px solid;
+    margin-top: 2rem !important;
+    margin-left: 1rem !important;
+}
+.link{
+    color: #E7C68E;
+    text-decoration: none;
+}
+.link:hover{ color: black;}
+
+
+@media only screen and (max-width: 600px) {
+    .createtext{
+        font-size: 14px;
+    }
+    .maningrid{
+        justify-content: center;
+    }
+    .grid{
+        margin-left: 0 !important;
+    }
+    .signup{
+        font-size: 14px;
+    }
+    .createlisting{
+        padding: 0 0.2rem;
+        height: 2.5rem;
+    }
+    .image{
+        height: 4rem;
+        padding-top: 0.5rem;    
+    }
+    .plus{
+        height: 0.7rem;
+    }
+    .goforbidding{
+        margin: 1rem;
+    }
+}
+@media only screen and (max-width: 349px) {
+    .createtext{
+        font-size: 10.5px;
+    }
+    .signup{
+        font-size: 10.5px;
+    }
+    .image{
+        height: 3.3rem;
+        padding-top: 0.4rem;
+    }
+    .plus{
+        height: 0.5rem;
+    }
+    .createlisting{
+        height: 1.5rem;
+    }
+}
+@media only screen and (max-width: 319px) {
+    .plus{
+        margin-left: 0.1rem;
+    }
+    .createlisting{
+        padding: 0;
+    }
+}
+
+
+

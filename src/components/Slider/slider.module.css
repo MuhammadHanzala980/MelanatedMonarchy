@@ -1,0 +1,23 @@
+.Slider {
+  margin: 1rem 0;
+}
+.box {
+  border: 2px solid;
+  height: 8rem;
+  padding: 2rem;
+  margin: 0 1rem;
+  text-align: center;
+}
+.box:hover {
+  cursor: pointer;
+}
+
+.teg {
+  font-weight: 700;
+}
+
+.link{
+    color: #E7C68E;
+    text-decoration: none;
+}
+

@@ -1,0 +1,139 @@
+.Pmain{
+    margin-top: 1rem;
+   
+    border-bottom: 1px solid #E7C68E !important;
+  }
+  .select2{
+    padding: 0 20px;
+    border: 1px solid #E7C68E;
+    margin-top: 1rem !important;
+    margin-left: 2rem !important;
+  }
+  .text{
+    margin-bottom: 1rem !important;
+    font-size: larger;
+    font-weight: 500;
+  }
+
+ 
+  .draft{
+    display: flex;
+    
+  }
+  /* Draft Css */
+  .Bidding{
+    width: auto;
+    border: 1px solid  #E7C68E;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem !important;
+  }
+  .main{
+    margin-top: 0rem;
+    border-bottom: 1px solid #E7C68E !important;
+  }
+  .smain{
+    margin-bottom: 1rem !important;
+    margin-top: 1rem  !important;
+    text-align: left;
+    border-bottom: 1px solid #E7C68E !important;
+  }
+    .dtext{
+      margin-bottom: 6px;
+      margin-top: 0px;
+      font-size: larger;
+      font-weight: 400;
+    }
+    .drafttext{
+      margin-bottom: 1rem !important;
+      font-size: large;
+      text-align: left;
+      font-weight: 400;
+    }
+    .draftprice{
+      margin-bottom: 0rem;
+      font-size: large;
+      text-align: left;
+      font-weight: 400;
+    }
+  
+   
+  .img{
+    width: 100%;
+    height: auto;
+  
+  }
+  
+  .button {
+    padding: 0.8rem 2.5rem;
+    margin-bottom: 0 rem !important;
+    font-size: 14px;
+    font-weight: 600;
+    color: #E7C68E;
+    background-color: #382817;
+    border: none;
+  }
+  
+  .button:hover {
+    cursor: pointer;
+    color: white;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 55%);
+  }
+  
+  .topbuttonright {
+    color: black;
+    padding: 0.8rem 3rem;
+    margin: 0 0.5rem;
+    font-size: 14px;
+    float: right;
+    font-weight: 600;
+    border: 1px solid  #E7C68E;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 100%);
+  }
+  
+  .topbuttonright:hover {
+    cursor: pointer;
+    color: #E7C68E;
+    border: 1px solid  #E7C68E;
+    background: black;
+  }
+  .publish {
+    margin-bottom: 1rem !important;
+    
+  }
+  @media only screen and (max-width: 800px) {
+    .button{
+     padding: 0.5rem 2rem !important;  
+    }
+  
+  
+  }
+  /*  */
+  @media only screen and (max-width: 670px) {
+  
+ 
+  .select2{
+   
+    margin-left: 0rem !important;
+  }
+   
+    .text{
+      font-size: 16px;
+      font-weight: 500;
+    }
+  
+  
+  }
+
+  @media only screen and (min-width: 900px) {
+    .select2{
+   
+      margin-left: 0rem !important;
+    }
+  }
+  @media only screen and (min-width: 960px) {
+    .select2{
+   
+      margin-left: 2rem !important;
+    }
+  }

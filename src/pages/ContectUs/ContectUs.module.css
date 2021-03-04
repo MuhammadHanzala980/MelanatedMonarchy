@@ -1,0 +1,43 @@
+.contectForm {
+  background-color: #e7c68e;
+  padding: 20px;
+}
+
+.heading {
+  color: black;
+  border-bottom: 1px solid;
+  padding: 0px 0px 24px;
+}
+.heading2 {
+  color: #e7c68e;
+  border-bottom: 1px solid;
+  padding: 0px 0px 24px;
+}
+.label {
+  color: black;
+}
+
+.textarea {
+  width: 99%;
+  background-color: transparent;
+  border: 1px solid #000000;
+  color: #000000;
+  height: 7rem;
+  outline: none;
+}
+
+.quickContact {
+  padding: 20px;
+  border: 1px solid;
+}
+
+.btn {
+  background-color: black;
+  color: #e7c68e;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+}

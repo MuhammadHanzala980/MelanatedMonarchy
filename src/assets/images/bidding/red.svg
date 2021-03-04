@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-497 -165L143 -165L143 330L-497 330Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M-172 -102.5L28 -102.5L28 196L-172 196L-172 -102.5Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #9b9b9b } 
+	</style>
+	<g id="Bidding post detail – 1" clip-path="url(#cp1)">
+		<g id="detailpost">
+			<g id="Mask Group 3" clip-path="url(#cp2)">
+				<g id="form">
+					<g id="Scroll Group 2">
+						<g id="Group 499">
+							<path id="Ellipse 34" class="shp0" d="M6 12C2.68 12 0 9.32 0 6C0 2.68 2.68 0 6 0C9.32 0 12 2.68 12 6C12 9.32 9.32 12 6 12Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

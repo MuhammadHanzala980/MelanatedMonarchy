@@ -1,0 +1,83 @@
+.Pmain{
+  margin-top: 1rem;
+  border-bottom: 1px solid #E7C68E !important;
+}
+.text{
+  margin-bottom: 1rem !important;
+  color:  #E7C68E;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.draft{
+  display: flex;
+  
+}
+.box{
+  margin-right: 1rem;
+}
+.Bidding{
+    width: auto;
+    border: 3px solid  #E7C68E;
+    padding: .5rem;
+    margin: 1rem !important;
+  }
+  .img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }
+  .text{
+      font-size: 16px;
+      font-weight: 500;
+  }
+  button {
+    border: none;
+}
+
+
+.topbuttonright {
+  color: #382817;
+  padding: 0.8rem 2rem;
+  margin: 0 rem;
+  font-size: 14px;
+  float: right;
+  font-weight: 600;
+  background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 100%);
+}
+
+.topbuttonright:hover {
+  cursor: pointer;
+  background: rgb(0, 0, 0);
+  border: 1px solid #E7C68E;
+  color: #E7C68E;
+}
+  .createlisting{
+    display: flex;
+    background: linear-gradient(60deg,#E7C68E 0%, #9D7A54 100%);
+    color: black; 
+    border:1px solid #E7C68E;
+    margin-top: 0.6rem;
+    margin-bottom: .6rem;
+    height: 2.5rem;
+    width: 100%;
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+.createlisting:hover{
+  color: white;
+}
+.createlisting:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) {
+.topbuttonright {
+ 
+  padding-left: 1rem ;
+  padding-right: 1rem ;
+  margin: 0 rem;
+ 
+}
+}

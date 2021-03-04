@@ -1,0 +1,93 @@
+.box {
+    border: 1px solid;
+}
+
+.heading {
+    background-color: #E7C68E;
+    padding: 1px 0;
+    color: black;
+    margin-top: 0;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.grid {
+    padding: 1rem 0px;
+}
+
+.Input {
+    width: 90%;
+    padding: 0.7rem;
+    background-color: transparent;
+    border: 1px solid #E7C68E;
+    border-radius: 1px;
+    font-size: 0.9rem;
+    color: #E7C68E;
+}
+
+.privacy {
+    color: #9D7A54;
+}
+
+.privacy img {
+    height: 0.8rem;
+}
+
+.radio {
+    margin-bottom: 2.95rem;
+}
+
+.content {
+    padding: 1rem 1rem;
+}
+
+.continuebutton {
+    float: right;
+    padding: 0.7rem 2.7rem;
+    color: black;
+    font-weight: bold;
+    background-color: #9D7A54;
+    border: transparent;
+    margin: 1rem 0;
+}
+
+.continuebutton:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.rightbottomtext {
+    padding-bottom: 1.5rem !important;
+}
+
+.bottomrightgrid {
+    margin-top: -1.1rem !important;
+}
+
+@media only screen and (max-width: 960px) {
+    .radio {
+        margin-bottom: 0rem;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .grid {
+        padding: 1rem 2rem;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .grid {
+        padding: 1rem 0rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .grid {
+        padding: 0rem;
+    }
+    .rightbottomtext {
+        margin-top: -1.9rem !important;
+    }
+}

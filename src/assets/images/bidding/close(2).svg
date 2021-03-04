@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" width="9" height="9">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-541 -43L99 -43L99 452L-541 452Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="Bidding post detail – 1" clip-path="url(#cp1)">
+		<g id="detailpost">
+			<g id="close">
+				<path id="close(2)" class="shp0" d="M4.86 4.63L7.98 1.51C8.18 1.31 8.18 0.98 7.98 0.78C7.77 0.58 7.45 0.58 7.24 0.78L4.13 3.89L1.01 0.78C0.81 0.58 0.48 0.58 0.28 0.78C0.08 0.98 0.08 1.31 0.28 1.51L3.39 4.63L0.28 7.74C0.08 7.95 0.08 8.27 0.28 8.48C0.38 8.58 0.51 8.63 0.65 8.63C0.78 8.63 0.91 8.58 1.01 8.48L4.13 5.36L7.24 8.48C7.34 8.58 7.48 8.63 7.61 8.63C7.74 8.63 7.87 8.58 7.98 8.48C8.18 8.27 8.18 7.95 7.98 7.74L4.86 4.63Z" />
+			</g>
+		</g>
+	</g>
+</svg>

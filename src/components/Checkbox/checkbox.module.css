@@ -1,0 +1,31 @@
+.div{
+    display: flex;
+    align-items: center;
+    margin: -0.8rem 0;
+}
+.text{
+    margin-left: .6rem;
+}
+.checkbox:hover{
+    cursor: pointer;
+    background-color: #E7C68E;
+}
+.checkbox{
+    width: 15px !important;
+    height: 15px !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    outline: 1px solid #E7C68E;
+    box-shadow: none;
+    font-size: 0.8em;
+    text-align: center;
+    line-height: 1em;
+    background: black;
+  }
+  
+ .checkbox:checked:after {
+    content: '✔';
+    color: #E7C68E;
+  }

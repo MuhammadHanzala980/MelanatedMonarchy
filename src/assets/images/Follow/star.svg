@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26" width="28" height="26">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-51 -300L589 -300L589 195L-51 195Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.6;fill: #000000;stroke: #e7c68e;stroke-width: 3 } 
+	</style>
+	<g id="Followers" clip-path="url(#cp1)">
+		<g id="sidemenu">
+			<g id="Group 416">
+				<path id="Polygon 1" class="shp0" d="M13.69 1L18.1 8.19L26.29 10.17L20.83 16.59L21.48 25L13.69 21.78L5.9 25L6.55 16.59L1.09 10.17L9.28 8.19L13.69 1Z" />
+			</g>
+		</g>
+	</g>
+</svg>

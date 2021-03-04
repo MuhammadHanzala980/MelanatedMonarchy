@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="50" viewBox="0 0 60 50">
+  <g id="Group_512" data-name="Group 512" transform="translate(-125 -2299)">
+    <g id="Rectangle_143" data-name="Rectangle 143" transform="translate(125 2299)" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="1">
+      <rect width="60" height="50" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="59" height="49" rx="1.5" fill="none"/>
+    </g>
+    <g id="facebook" transform="translate(147 2310)">
+      <path id="Path_101" data-name="Path 101" d="M208.154,106.769h-5.385v-4.308c0-1.189.965-1.077,2.154-1.077h2.154V96h-4.308a6.461,6.461,0,0,0-6.462,6.462v4.308H192v5.385h4.308V124h6.462V112.154H206Z" transform="translate(-192 -96)"/>
+    </g>
+  </g>
+</svg>

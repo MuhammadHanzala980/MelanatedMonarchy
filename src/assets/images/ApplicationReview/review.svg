@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 13" width="20" height="16">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-458 -81L182 -81L182 356L-458 356Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e7c68e;stroke: #e7c68e;stroke-linecap:round;stroke-width: 1.5 } 
+	</style>
+	<g id="Application Review" clip-path="url(#cp1)">
+		<g id="div_header">
+			<g id="app review" style="opacity: 0.4">
+				<g id="application review">
+					<path id="Rectangle 145" class="shp0" d="M1 0L10 0C10.55 0 11 0.45 11 1L11 12C11 12.55 10.55 13 10 13L1 13C0.45 13 0 12.55 0 12L0 1C0 0.45 0.45 0 1 0Z" />
+					<path id="Path 533" class="shp0" d="M2.5 3.5L8.5 3.5" />
+					<path id="Path 534" class="shp0" d="M2.5 6.5L8.5 6.5" />
+					<path id="Path 535" class="shp0" d="M2.5 9.5L6 9.5" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

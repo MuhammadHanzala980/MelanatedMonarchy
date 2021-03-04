@@ -1,0 +1,58 @@
+.img{
+    border:1px solid black;
+}
+.image{
+    margin-top: 1rem !important;
+    height: 170px;
+    width: 200px;
+    margin-bottom: .3rem !important;
+}
+.div{
+    margin-right: 1rem !important;
+}
+.btn{
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+    border:1px solid black;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 3px;
+}
+.btnbox{
+    margin-right: 40px;
+}
+.textborder{
+    border-bottom:2px solid black;
+}
+.detail{
+    font-weight: 500; 
+    font-size: 16px;  
+}
+.box{
+    border:1px solid black; 
+    border-radius: 5px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow-y: visible;
+}
+.right{
+    text-align: right;
+}
+.icon{
+    margin-right: .5rem;
+   
+}
+.text{
+    font-weight: 500; 
+    letter-spacing: .5px;
+    margin-top: .5rem;
+    font-size: 18px;  
+}
+.box3{
+    margin-bottom: .5rem;
+}

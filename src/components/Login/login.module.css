@@ -1,0 +1,88 @@
+.textbox {
+    border: 1px solid black;
+    margin-top: -0.7rem;
+    color: #000000e5;
+
+}
+
+.logintext {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #000000e5 !important;
+}
+
+.heading {
+    font-weight: 500;
+}
+
+.bottomgrid {
+    margin-top: 1rem;
+}
+
+.Logindiv {
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+
+.Logindiv button {
+    color: #E7C68E;
+    background-color: black;
+    padding: 0.4rem 0rem;
+    font-family: 'Segoe UI semibold';
+    width: 100%;
+    font-size: 1.3rem;
+    border-radius: 4%;
+}
+
+.Logindiv button:hover {
+    cursor: pointer;
+    color: white;
+}
+.messageErr{
+    color: #dd0f0f;
+    font-weight: 600;
+}
+.signup {
+    text-decoration: underline;
+}
+
+.signup:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.loginicons:hover {
+    cursor: pointer;
+}
+
+.forgot{
+    color: black;
+}
+
+.forgot:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.middleborder {
+    border-right: 0.5px solid;
+}
+
+.account {
+    padding-left: 1rem;
+}
+
+.text:hover {
+    cursor: pointer;
+    color: white;
+}
+
+@media only screen and (max-width: 320px) {
+    .loginicons {
+        height: 2rem;
+    }
+
+    .account {
+        padding-left: 0.5rem !important;
+    }
+}

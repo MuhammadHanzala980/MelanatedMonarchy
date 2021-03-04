@@ -1,0 +1,86 @@
+.Pmain {
+  margin-top: 1rem;
+  border-bottom: 1px solid #e7c68e !important;
+}
+
+.select2 {
+  padding: 0 20px;
+  border: 1px solid #e7c68e;
+  margin-top: 1rem !important;
+}
+
+.text {
+  margin-bottom: 1rem !important;
+  font-size: 20px !important;
+  font-weight: 500;
+}
+
+.draft {
+  display: flex;
+  flex-direction: row;
+}
+
+.formGroup {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100% !important;
+  align-content: center;
+  margin: 4em 0px !important;
+}
+
+.inpBox {
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  /* flex-basis: 18%; */
+}
+
+.labelTe {
+  font-size: 17px;
+  padding: 10px 2px;
+}
+
+.btnBox {
+  width: 100;
+  text-align: right !important;
+}
+
+.btn {
+  padding: 0.7rem 2rem;
+  outline: none;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: 500 !important;
+  background: linear-gradient(60deg, #e7c68e 0%, #9d7a54 100%);
+}
+
+.inpFeild {
+  padding: 10px 5px;
+  width: 98%;
+  font-size: 19px;
+  border: 1.5px solid #e7c68e;
+  color: #e7c68e;
+  outline: none;
+  border-radius: 3px;
+  background: transparent;
+}
+
+@media only screen and (max-width: 670px) {
+}
+
+@media only screen and (min-width: 900px) {
+  .select2 {
+    margin-left: 0rem !important;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .select2 {
+    margin-left: 0rem !important;
+  }
+}

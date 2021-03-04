@@ -1,0 +1,51 @@
+.topgrid {
+    background-color: #4e3e2b;
+    color: #E7C68E;
+    padding: 1rem 2rem;
+}
+
+.button {
+    padding: 0.8rem 2.5rem;
+    margin: 0 0.5rem;
+    font-size: 14px;
+    font-weight: 600;
+    color: #E7C68E;
+    background-color: #382817;
+    border: none;
+}
+
+.button:hover {
+    cursor: pointer;
+    color: white;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 55%);
+}
+
+.topbuttonright {
+    color: #382817;
+    padding: 0.8rem 3rem;
+    margin: 0 0.5rem;
+    font-size: 14px;
+    float: right;
+    font-weight: 600;
+    background: linear-gradient(60deg, #E7C68E 0%, #9D7A54 100%);
+}
+
+.topbuttonright:hover {
+    cursor: pointer;
+    background: black;
+    border: 1px solid #E7C68E;
+    color: white;
+}
+.unpublishedtext {
+    float: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .unpublishedtext {
+        float: left;
+    }
+
+    .topbuttonright {
+        float: left;
+    }
+}

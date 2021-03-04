@@ -1,0 +1,90 @@
+.Pmain {
+    margin-top: 1rem;
+    border-bottom: 1px solid #E7C68E !important;
+}
+
+.select2 {
+    padding: 0 20px;
+    border: 1px solid #E7C68E;
+    margin-top: 1rem !important;
+}
+
+.text {
+    margin-bottom: 1rem !important;
+    font-size: 17px !important;
+    font-weight: 500;
+}
+
+.draft {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    margin-top: 1em !important;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #E7C68E !important;
+}
+
+.date {
+    text-align: right;
+}
+
+.imgContainer {
+    margin-right: 12px;
+}
+
+.order {
+    width: 126px;
+}
+
+.price {
+    margin-top: 4.1em;
+}
+
+@media only screen and (max-width: 360px) {
+    .card {
+        font-size: 12px;
+    }
+    .order {
+        width: 86px;
+    }
+    .price {
+        margin-top: 3.1em;
+    }
+    .text{
+        margin-bottom: .4rem !important;
+        font-size: 14px !important;
+    }
+    .date{
+        text-align: left;
+        font-size: 12px !important;
+
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .draft {
+        margin-top: 1em !important;
+        margin-bottom: 1em !important;
+    }
+    .select2 {
+        margin-left: 0rem !important;
+    }
+    .text {
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    .select2 {
+        margin-left: 0rem !important;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .select2 {
+        margin-left: 0rem !important;
+    }
+}
